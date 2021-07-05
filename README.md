@@ -4,19 +4,19 @@
  
 ## Create/Join a Room 
 <p align="center">
-  <img src="/images/Screenshot(410).PNG">
+  <img src="/images/Screenshot (410).png">
 </p> 
 <p align="center">
-  <img src="/images/Screenshot(411).PNG">
+  <img src="/images/Screenshot (411).png">
 </p>
 
 ### Open another tab and run the same server.
 ## Create new room or join the already existing rooms.
 <p align="center">
-  <img src="/images/Screenshot(412).PNG">
+  <img src="/images/Screenshot (412).png">
 </p>
 ## Chat in the room !
 <p align="center">
-  <img src="/images/Screenshot(413).PNG">
+  <img src="/images/Screenshot (413).png">
 </p>
 
